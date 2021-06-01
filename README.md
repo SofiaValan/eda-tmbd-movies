@@ -12,10 +12,10 @@ The main goal of this Exploratory Data Analysis is to discover valuable trends i
 - Are revenue and budget associated with movies that have a high rating?
 - What kind of attributes are associated with movies that have a high revenue?
 
-### Steps involved in this project
+## Steps involved in this project
 
 Data Importing | Data Cleaning | Feature Engineering/Extraction | Exploratory Data Analysis | 
 
-### Libraries used
+## Libraries used
 
 a) Pandas b) Numpy c) Plotly, Matplotlib, Seaborn
